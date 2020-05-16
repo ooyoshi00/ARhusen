@@ -1,0 +1,24 @@
+{
+  "name": "mahocaar2019",
+  "version": "1.0.0",
+  "description": "- 端末間通信(multipeerSession.swift)   multipeerConnectivityを使って，p2p通信を行なっている",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://spring.ics.nitech.ac.jp:8081/okayoshi/mahocaAR2019"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "eslint": "^6.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.2.7",
+    "mysql": "^2.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
