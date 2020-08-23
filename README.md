@@ -4,14 +4,12 @@ AR付箋の作成及びAR空間への配置，付箋の操作が行える．
 
 P2P通信とARKit2.0により多人数での空間共有を可能としている．
 
-ただし，空間共有時の付箋操作のための座標変換処理が不完全．
+ただし，空間共有時の付箋操作開発中のための座標変換処理が不完全．
 ##### 上からの様子
-<img src="./pics/upper.png" alt="
-" title="サンプル">
+<img src="./pics/upper.PNG" alt="" title="サンプル" width="50%">
 
 ##### 横からの様子
-<img src="./pics/side.png" alt="
-" title="サンプル">
+<img src="./pics/side.PNG" alt="" title="サンプル" width="50%">
 
 ### 実行環境
 ARKitが使用できるiOS端末(iphoneだと6s以降)
